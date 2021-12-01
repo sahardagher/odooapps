@@ -1,4 +1,4 @@
-odoo.define('pos_fixed_discount.FixedDiscountButton', function(require) {
+odoo.define('pos_fixed_discounts.FixedDiscountButton', function(require) {
     'use strict';
 
     const PosComponent = require('point_of_sale.PosComponent');

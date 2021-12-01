@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-        <record id="pos_config_view_form_inherit_pos_fixed_discount" model="ir.ui.view">
+        <record id="pos_config_view_form_inherit_pos_fixed_discounts" model="ir.ui.view">
             <field name="name">pos.config.form.inherit.pos.fixed.discount</field>
             <field name="model">pos.config</field>
             <field name="inherit_id" ref="pos_discount.pos_config_view_form_inherit_pos_discount" />
