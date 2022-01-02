@@ -10,8 +10,8 @@
     'summary': 'Simple Discounts in Point of Sale ',
     'description': """
 
-This module allows the cashier to quickly give percentage-based
-discount to a customer.
+This module allows the cashier to quickly give fixed-based
+discount to a customer(for all order).
 
 """,
     'author':'Sahar Dagher',
