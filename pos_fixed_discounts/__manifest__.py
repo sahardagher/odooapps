@@ -16,7 +16,7 @@ discount to a customer(for all order).
 """,
     'author':'Sahar Dagher',
     'license':'LGPL-3',
-    'images':['static/description/image.jpg'],
+    'images':['static/description/image.png'],
     'depends': ['point_of_sale','pos_discount'],
     'data': [
         'data/product_data.xml',
